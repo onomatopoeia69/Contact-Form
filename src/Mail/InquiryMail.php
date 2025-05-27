@@ -43,7 +43,7 @@ class InquiryMail extends Mailable
     public function content(): Content
     {
         return new Content(
-            view: 'Contactform::Mail.email_body',
+            view: 'contactform::Mail.email_body',
             with: $this->data,            
         );
     }

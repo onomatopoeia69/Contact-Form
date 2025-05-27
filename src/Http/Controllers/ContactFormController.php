@@ -14,7 +14,7 @@
         public function create()
         {
 
-            return view('Contactform::create');
+            return view('contactform::create');
 
         }
 
