@@ -1,0 +1,26 @@
+{
+    "name": "onoma/contactform",
+    "description": "a contact form package",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Onoma\\Contactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "onomatopoeia69",
+            "email": "carljameslangres@gmail.com"
+        }
+    ],
+    "extra": {
+    "laravel": {
+      "providers": [
+        "Onoma\\Contactform\\ContactFormServiceProvider"
+      ]
+    }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
