@@ -19,4 +19,4 @@ A simple, reusable Laravel package to add a contact form to your application in 
 Install via Composer:
 
 ```bash
-composer require onoma/contactform:dev-main
+composer require onoma/contactform
