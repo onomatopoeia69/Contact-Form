@@ -20,3 +20,15 @@ Install via Composer:
 
 ```bash
 composer require onoma/contactform
+```
+
+## How to use: 
+
+- After installation, you can use the component in your blade template views using 
+
+```bash
+<x-email-template/>
+```
+
+
+
