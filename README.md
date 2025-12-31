@@ -4,7 +4,7 @@ A simple, reusable Laravel package to add a contact form to your application in 
 
 ---
 
-## ✨ Features
+## Features
 
 - Easy installation and configuration
 - Automatically stores submissions (optional)
@@ -14,7 +14,7 @@ A simple, reusable Laravel package to add a contact form to your application in 
 
 ---
 
-## 📦 Installation
+## Installation
 
 Install via Composer:
 
