@@ -22,7 +22,7 @@ Install via Composer:
 composer require onoma/contactform
 ```
 
-## Usage: 
+## Usage
 
 - After installation, you can use the component in your blade template views using 
 
