@@ -1,4 +1,4 @@
-# Onoma Contact Form
+# Contact Form
 
 A simple, reusable Laravel package to add a contact form to your application in minutes.
 
